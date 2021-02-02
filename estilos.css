@@ -1,0 +1,62 @@
+body{
+    background: #E5E8E8;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.container{
+    width: 500px;
+    margin: auto;
+}
+.cabecera-principal{
+    background: white;
+    text-align: center;
+    padding: 5px;
+    
+}
+.my-article{
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.secciones{
+    background: white;
+    
+}
+
+.encabezado-post{
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 14px;
+}
+
+img{
+    max-width: 500px;
+}
+
+.texto-post{
+    margin: 10px auto;
+    padding: 5px;
+    text-align: justify;
+}
+
+.encabezado-imagen{
+    float: left;
+}
+
+.numeros{
+    float: right;
+
+}
+#encabezado-imagen{
+    justify-content: flex-start;
+
+}
+
+#numeros{
+    text-align: right;
+}
